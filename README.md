@@ -1,8 +1,13 @@
 # InteractiveCmdDemo
-Use CliWrap to invoke cmd tools, and use custom strings as  stdin for use prompt args
+Use CliWrap to invoke cmd tools, and use it's pipe syntax as stdin for use prompt args
 
 
 ## Steps:
 1. build console1 project, and copy the exe path
 2. open console2 project, replace below exe path with Cli.Wrap("<path>")
 3. run console2 project, view the result.
+
+
+
+## results:
+![image](https://user-images.githubusercontent.com/3945919/220048325-6f34bd8c-cfd4-4da2-9c3b-1045a5855371.png)
