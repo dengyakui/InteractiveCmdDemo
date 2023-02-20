@@ -4,7 +4,7 @@ Use CliWrap to invoke cmd tools, and use it's pipe syntax as stdin for use promp
 
 ## Steps:
 1. build console1 project, and copy the exe path
-2. open console2 project, replace below exe path with Cli.Wrap("<path>")
+2. open console2 project, find code with  Cli.Wrap("<path>"), and replace path value
 3. run console2 project, view the result.
 
 
